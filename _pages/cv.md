@@ -50,6 +50,8 @@ Teaching
 Skills
 ======
 * R, Unix
+* Shiny Development
+* Genomics pipeline development 
 * Git/Github
 * Python (*some*)
 * Memorizing Immunology markers
