@@ -13,28 +13,21 @@ Education
 ======
 * B.S. Biotechnology, The Pennsylvania State University, 2013
 * Masters. Biotech, The Pennsylvania State University, 2013
-* Ph.D in Genetics Emory University, 2023 (expected)
+* Ph.D in Genetics, Emory University, 2023 (expected)
 
-Work experience
+Prior Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2019: Senior Associate Scientist
+  * Janssen Pharmaceutical Companies of Johnson & Johnson
+  * Upstream cell culture process development lead for monoclonal antibody product
+  * BLA and regulatory filings
+  * Advanced process control technology development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013-2016: Engineer I
+  * Biogen
+  * Pilot plant operations,
+  * Process technology transfers (cGMP, site transfers, etc)
+  * Advanced process modeling development
 
 Publications
 ======
@@ -54,6 +47,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Skills
+======
+* R, Unix
+* Git/Github
+* Python (*some*)
+* Memorizing Immunology markers
+
 Service and leadership
 ======
-* Student Representative for Graduate Program Executive Committee 
+* Student Representative for Graduate Program Executive Committee
