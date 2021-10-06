@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: " Teaching Assistant, Introduction to Data Analysis in R. Fall 2020 & Fall 2021"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Emory University"
+date: 2021-08-01
+location: "Atlanta, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLz2lNoGvgpCgmwVVV2GpI5YGVP6ptzLX4msx3ajJW_0V0thVUKrMDqKzae46DObwyOnjZy3AxG5yC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Lecture on data visualization principles for course on data analysis using R
