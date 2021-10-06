@@ -17,10 +17,10 @@ In the meantime I've played around here and there with programming and open sour
 
 In 2020 I joined the lab of Dr. Jerry Boss studying genetic and epigenetic regulation of immune cells (T cells & B cells) in the context of immune memory and autoimmune diseases respectively.
 
->### My current goal is to learn how to become a "scientific data scientist"
+>### My current goal is to learn how to become a ["Genomic Data Scientist"](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science)
 >*Aka someone who has the skills and experience to effciently approach and analyze large genetic datasets with the right set of questions and tools to ultimately gain insights and answer interesting biological questions*
 
-### General  Interests (...a running list)
+### General Interests (...a running list)
 
 1. Science fiction
 2. Craft Beer
@@ -28,18 +28,3 @@ In 2020 I joined the lab of Dr. Jerry Boss studying genetic and epigenetic regul
 4. Practicing to someday compete in the "Sliced" competition =)
 5. Gardening
 6. Trees
-
-### Scientific & Professional Interests/Projects
-I try to gear my studies towards learning and applying computational or bioinformatic tools to big questions around genetics, immunology, and sequencing technologies--but with the eye of a former bench scientist. That includes exploring large, complex bulk and single-cell sequencing datasets using models or data visualzation principles...as well as appropriate domain knowledge that allows me to know how to frame my research questions.
-
-That's the plan so far at least! We'll see where my next path takes me!
-
-In no particular order:
-
-- Immunology
-- Gene regulation
-- Bioinformatics
-- Human Genetics
-- Pharmaceuticals/Translational Research
-- Single cell sequencing
-- Autoimmunity
