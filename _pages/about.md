@@ -17,7 +17,7 @@ In the meantime I've played around here and there with programming and open sour
 
 In 2020 I joined the lab of Dr. Jerry Boss studying genetic and epigenetic regulation of immune cells (T cells & B cells) in the context of immune memory and autoimmune diseases respectively.
 
->### My current goal is to learn how to become a ["Genomic Data Scientist"](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science)
+>### My current goal is to learn how to become a ["~~Genomic~~ Epigenetic Data Scientist"](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science)
 >*Aka someone who has the skills and experience to effciently approach and analyze large genetic datasets with the right set of questions and tools to ultimately gain insights and answer interesting biological questions*
 
 ### General Interests (...a running list)
