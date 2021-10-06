@@ -8,6 +8,6 @@ date: 2021-08-01
 location: "Atlanta, USA"
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLz2lNoGvgpCgmwVVV2GpI5YGVP6ptzLX4msx3ajJW_0V0thVUKrMDqKzae46DObwyOnjZy3AxG5yC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLz2lNoGvgpCgmwVVV2GpI5YGVP6ptzLX4msx3ajJW_0V0thVUKrMDqKzae46DObwyOnjZy3AxG5yC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Lecture on data visualization principles for course on data analysis using R
