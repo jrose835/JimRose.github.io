@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Jim R. Rose"
+title: "Hey! I'm Jim..."
 excerpt: "About Jim R. Rose"
 author_profile: true
 redirect_from:
