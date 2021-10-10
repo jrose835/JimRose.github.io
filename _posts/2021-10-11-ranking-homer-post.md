@@ -16,9 +16,15 @@ Today I'm going to share some of my experiences working with the results of HOME
 
 ### Some more background
 
-HOMER enrichment for KNOWN MOTIFS works by first comparing target region sets to background regions as control. These background regions are selected randomly from the genome after matching for GC content of your target set. It then assigns weights for GC content, and sequence bias (imbalances of 1-mers, 2-mers, and 3-mers) to reduce noise, and ultimately calculates an enrichment p-value using the cumulative hypergeometric distribution. 
+HOMER enrichment for KNOWN MOTIFS works by first comparing target region sets to background regions as control. These background regions are selected randomly from the genome after matching for GC content of your target set. It then assigns weights for GC content, and sequence bias (imbalances of 1-mers, 2-mers, and 3-mers) to reduce noise, and ultimately calculates an enrichment p-value for known motif oligos from the HOMER (or JASPR) database using the cumulative hypergeometric distribution. 
 
-And it works great! Since this tool was introduced in 2010 it has been widely used to discover important biologically-relevant motifs in genomic datasets and has been cited over 7000 times as of the time of writing this post... 
+**Basically, if any particular oligo appears statisically more likely to occur in your target sets of regions compared to random genome background regions then it is given a lower p-value signifying how unlikely this occured by random chance**
+
+![known motif output from HOMER](http://homer.ucsd.edu/homer/motif/motifs.known.png/)
+
+### And it works great! 
+
+Since this tool was introduced in 2010 it has been widely used to discover important biologically-relevant motifs in genomic datasets and has been cited over 7000 times as of the time of writing this post... 
 
 ### But here's the rub
 
