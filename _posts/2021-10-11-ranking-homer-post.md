@@ -67,6 +67,10 @@ Here's how the same data from the graph above looks using a rank score in place 
 
 Those which go up or down in rank from one input region sample to the next could be assumed to be found at relatively different enrichment levels...sometimes with biological significance.
 
+### What does it mean to be "more enriched"
+
+This is a tricky concept, as we're running the risk of 
+
 ## Coming soon:
 
 I'll finish writing this blog post showing some of the biological relevance to this approach soon!
