@@ -1,6 +1,6 @@
 ---
 title: 'Using Rank to Compare Homer Motif Enrichments in Different Sets of ATACseq Data'
-date: 2021-10-19
+date: 2051-10-19
 permalink: /posts/2021/10/ranking-homer-post/
 tags:
   - Transciption factors
