@@ -13,7 +13,7 @@ Education
 ======
 * B.S. Biotechnology, The Pennsylvania State University, 2013
 * Masters. Biotech, The Pennsylvania State University, 2013
-* Ph.D in Genetics, Emory University, 2023 (expected)
+* Ph.D in Genetics, Emory University, 2024 (expected)
 
 Prior Work experience
 ======
@@ -37,7 +37,7 @@ Publications
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
