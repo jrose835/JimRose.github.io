@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-02-02-human-memory-T-1.md
 excerpt: 'Integrating RNA-seq and ATAC-seq data to define gene regulatory networks associated with memory T cell subsets'
 date: 2023-03-03
-venue: 'Communications Biology'
+venue: '(In review) Communications Biology'
 paperurl: 'https://www.nature.com/commsbio/'
 citation: 'James R. Rose,Bagdeser Akdogan-Ozdilek, Andrew R. Rahmberg,Michael D. Powell,Sakeenah L. Hicks,Christopher D. Scharer, Jeremy M. Boss. Communications Biology (In review)'
 ---
